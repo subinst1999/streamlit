@@ -17,8 +17,8 @@ from langchain_openai import OpenAIEmbeddings
 import streamlit as st
 
 import os
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "cricket-analysis-443002-6dfb0e37dc6c.json"
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = st.secrets['google']['application_credentials']
+os.environ['OPENAI_API_KEY'] = st.secrets['openai']['api_key']
 
 llm = ChatOpenAI(model="gpt-4o-mini")
 embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
