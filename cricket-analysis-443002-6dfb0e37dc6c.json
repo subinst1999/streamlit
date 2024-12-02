@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cricket-analysis-443002",
+  "private_key_id": "6dfb0e37dc6cc3b19e5f25b23e96f3b42445bd6d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCd5/ihtmK2y+x8\nKoPWoigncFY5YYCHlLHQPvK2FsGfRqvlAyDsA3Ev5nab4LHVAesr6Twq25OS6Imv\nZeTO4pIOTIWFUyLQCofEtuQ21vLN3xuiAFlnSiFcZDBo6yi9Ej76YtCnPEmjixDn\n/jizN0LOthAPhTKLpjyanXQVAty7U3BaEJm3FSZOi+FXS6Q5FchjppJj9pjdXoSM\nfD1mZQuxmmH9aEWC5I2lbJBTPK0IDUBso48XqYetb7e2R4NTmw7Ui3uvcqXMEyih\nFDGeNgdauvH+htheIo2d55/y/+TU6lYAtDb0yFEQ5idyl7s5XqMRAFiCLH7KNoCG\nxb7a5+2dAgMBAAECggEABJEqhEbZqQ7R2q+CG6mZ/rYFkGhNBt7am7rOW0ziMcCi\nBSAnihv5YJjKUmzXx+Dj0+PNjTHHnWajYNLSINe1wLse24HRjnHXhm2BwUJLSIAM\n9Q0MiOvAdkMhkU9H4NwPvT8xaLzaJmRFy2fzbN+Ky57BbSl9kkNvGku2iUsJZlOS\nWHuJVfrKaFT9/RAmDDG5UTEjitj2xa5DUlGNOtHQ8+28zSOaSbcTKs3ICIr7LpPs\nBWXQ6Vf2BDlc94hFUV4BN3i4MctHIvfp2nOQALjQFD3kI/njEAKhB+WnU/DrX/FM\nXzVXddTsY5VrHQlEV6DJmGMQLPmvV3CYsOeGVuH3QQKBgQDOOV5n+KliL2lZ+i87\nBkYRKYTzjM+KElReVfDlLCXOYt9SLXI4qyI/+SmCuHVaRwggMHW96S2K61ChNLZ8\nRgNEl0R7AgSpRrLY0hINIUoXHSceA+A9/raKfRoCbz9O9gPBlnoTU1pACIB3VY4V\nCQ4dJ4AJgC4A5olBMwf0fLJSfQKBgQDEBQZ+hXo7fsTBkNG1qWwK1qsCT8HiVwVs\nBsBZDiURt/tRVN6x+WgZ9mo91/UTvfebXRZXz8Je62XDqba6hluLGoJFJj3ZGlZG\nK5niirjp8/m+heP7J54c2ligM/fH7YfuF3nc+PZgYK7LZqjlv0Ep+4KHUjyTNiMi\nW3pdQTLRoQKBgQC4vd/62GI1WS/RsTSaddZTDZTS8fQCRsVZ9TdmthPwPda9sYS/\ni1+VW8p6FnDavQNkgsUXqkpoRsHmiGhqD/ZhffmVEIvIcVNKtXYCWS4cYrtmQiai\nowo4KjYgtDRMsktPI1Sc93DEKFmdjgFIiuIf8ADdgfy0RdHznJmlxgehqQKBgE4y\n9wlIdKABjbru7Ep9oWWdiDFu4hlKwBX9h4S/mNg9vpwOsJzts7MP1AiB+/p5QauQ\nclZrws4dOMbbENPOv/x5gdjWTbwrvplV0ZlH4EctFsgEIBRVFMXL8alPshznTOAW\nK36VL6z5RSJN/TlSmEuIU+VqUFImOdP+DI3hccWhAoGAYxJFhBfhjids+kVGTydC\n6tYTMLzr946qNGPOWoQC6CRQ4aunAkSjIVZP+83KGU/trVVIrCR2W527dLrmEVJM\npP95ZFrWtH0FyoZsD4odryD4zVrMHOdPcZVBwfc8nYts9Hj2T9h80ScxpemSJA+a\nAUz/FPm2D6VI3oH3zKC94iw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cricket-analysis@cricket-analysis-443002.iam.gserviceaccount.com",
+  "client_id": "113092014887292541528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cricket-analysis%40cricket-analysis-443002.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
